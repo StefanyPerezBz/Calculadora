@@ -15,7 +15,7 @@
 ## 📌 **Demo**
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Demostración de la calculadora" width="400"/>
+  <img src="assets/demostración.gif" alt="Demostración de la calculadora" width="400"/>
 </p>
 
 ---
