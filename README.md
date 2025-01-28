@@ -4,11 +4,15 @@
 
 ---
 
-## 📍 **Demo**
+## 📍 **Screenshot**
 
 <p align="center">
   <img src="./preview.png" alt="Vista previa de la calculadora" width="400"/>
 </p>
+
+---
+
+## 📌 **Demo**
 
 <p align="center">
   <img src="assets/demo.gif" alt="Demostración de la calculadora" width="400"/>
