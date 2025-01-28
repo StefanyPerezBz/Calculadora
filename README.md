@@ -1,78 +1,84 @@
-# Calculadora con Temas Estacionales 🎨
+# **Calculadora con Temas Estacionales 🎨**
 
-Una calculadora web interactiva con temas visuales inspirados en las cuatro estaciones del año, desarrollada con HTML, CSS y JavaScript vanilla.
+¡Explora las cuatro estaciones del año mientras realizas cálculos! Esta calculadora web interactiva combina funcionalidad con diseño estético, ofreciendo temas visuales inspirados en **Primavera**, **Verano**, **Otoño** e **Invierno**. Desarrollada con las tecnologías fundamentales de la web: **HTML**, **CSS** y **JavaScript**.
 
-## 📍 Demo
+---
 
-![Vista previa de la calculadora](./preview.png)
-
-![Demostracion](assets/demo.gif)
-
-## ✨ Características
-
-- Operaciones matemáticas básicas (suma, resta, multiplicación, división)
-- Cálculo de porcentajes
-- Temas visuales basados en las estaciones:
-  - Primavera 🌸
-  - Verano ☀️
-  - Otoño 🍁
-  - Invierno ❄️
-- Diseño responsivo
-- Interfaz intuitiva y amigable
-
-## 🛠️ Tecnologías Utilizadas
+## 📍 **Demo**
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" width="80"/>
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" width="80"/>
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="80"/>
+  <img src="./preview.png" alt="Vista previa de la calculadora" width="400"/>
 </p>
 
-## 🎯 Funcionalidades
+<p align="center">
+  <img src="assets/demo.gif" alt="Demostración de la calculadora" width="400"/>
+</p>
 
-- **Operaciones Matemáticas:**
-  ➕ Suma
-  ➖ Resta
-  ✖️ Multiplicación
-  ➗ División
-  💯 Porcentajes
+---
 
-- **Controles Adicionales:**
+## ✨ **Características Destacadas**
 
-  - AC (Borrar todo)
-  - DEL (Borrar último dígito)
-  - Decimales
+- **Operaciones matemáticas básicas**: suma, resta, multiplicación y división.  
+- **Cálculo avanzado**: incluye porcentajes, decimales y funciones para borrar (AC y DEL).  
+- **Temas estacionales**:  
+  - 🌸 **Primavera**: colores frescos y florales.  
+  - ☀️ **Verano**: tonos cálidos y brillantes.  
+  - 🍁 **Otoño**: paletas otoñales con tonos tierra.  
+  - ❄️ **Invierno**: colores fríos y minimalistas.  
+- **Diseño responsivo**: compatible con dispositivos de escritorio, tablet y móvil.  
+- **Interfaz amigable**: controles intuitivos para una experiencia fluida.
 
-🔄 AC - Reinicio completo
-⌫ DEL - Borrar último dígito
-⚡ = - Calcular resultado
+---
 
-- **Temas Estacionales:**
-  - Cada tema incluye su propio esquema de colores
-  - Cambio dinámico sin afectar la funcionalidad
-  - Botón de tema por defecto
+## 🛠️ **Tecnologías Utilizadas**
 
-🌸 Primavera
-☀️ Verano
-🍁 Otoño
-❄️ Invierno
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" width="80" title="HTML5"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" width="80" title="CSS3"/>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="80" title="JavaScript"/>
+</p>
 
-## 📱 Diseño Responsivo
+---
 
-La calculadora está optimizada para diferentes tamaños de pantalla:
+## 🎯 **Funcionalidades**
 
-- Escritorio
-- Tablet
-- Móvil
+### ⚙️ **Operaciones Matemáticas**
+- **➕ Suma**  
+- **➖ Resta**  
+- **✖️ Multiplicación**  
+- **➗ División**  
+- **💯 Porcentajes**  
 
-## 🚀 Uso
+### 🔧 **Controles Adicionales**
+- **AC**: Borra todo y reinicia la calculadora.  
+- **DEL**: Elimina el último dígito ingresado.  
+- **⚡ Resultado**: Muestra el cálculo final al presionar "=".  
 
-1. Selecciona un tema estacional usando los botones en la parte superior derecha
-2. Ingresa números usando el teclado numérico
-3. Realiza operaciones usando los operadores disponibles
-4. Presiona '=' para obtener el resultado
-5. Usa 'AC' para limpiar todo o 'DEL' para borrar el último dígito
+### 🌟 **Temas Estacionales**
+- Cambia entre los cuatro temas estacionales de forma dinámica.  
+- Cada tema tiene su propio esquema de colores y diseño único.  
+- Incluye un botón para restablecer el tema por defecto.
 
-## 👩‍💻 Autor
+### 📱 **Diseño Responsivo**
+- La interfaz se adapta a cualquier dispositivo:  
+  - Escritorios  
+  - Tablets  
+  - Móviles  
 
-Desarrollado con ❤️ por [Stefany Pérez](https://github.com/StefanyPerezBz)
+---
+
+## 🚀 **Cómo Usar**
+
+1. **Selecciona un tema estacional**: Usa los botones en la parte superior derecha para cambiar entre Primavera, Verano, Otoño e Invierno.  
+2. **Ingresa números**: Haz clic en el teclado numérico o usa tu teclado físico.  
+3. **Realiza operaciones**: Selecciona un operador (➕, ➖, ✖️, ➗) y presiona el botón "=" para calcular.  
+4. **Usa los controles adicionales**:  
+   - **AC**: Reinicia la calculadora.  
+   - **DEL**: Borra el último dígito ingresado.  
+
+---
+
+## 👩‍💻 **Autor**
+
+Desarrollado con ❤️ por [Stefany Pérez](https://github.com/StefanyPerezBz).  
+Si tienes alguna sugerencia o pregunta, no dudes en contactarme. 🚀
