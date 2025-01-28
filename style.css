@@ -24,7 +24,7 @@
 
 .summer-theme {
   --main-bg-color: #b3e5fc;
-  background-image: url('./summer.jpg');
+  background-image: url('./summer.png');
   background-repeat: no-repeat;
   --container-bg-color: #09468b;
   --display-bg-color: #849ab1;
